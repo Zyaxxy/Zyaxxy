@@ -1,6 +1,6 @@
 <div align="center">
 
-About Me
+## About Me
 
 <p><em>Aspiring blockchain and full-stack developer eager to contribute technical expertise, problem-solving skills, and a strong commitment to learning. I aim to deliver scalable, user-focused solutions while growing with an innovative organization.</em></p>
 
