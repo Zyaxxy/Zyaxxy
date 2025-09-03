@@ -16,7 +16,7 @@
 
 <div align="center"><p>Focused on deepening expertise in Rust and blockchain development while contributing to impactful, real-world projects.</p></div>
 
-## GitHub Stats
+## GitHub Stats ## 🔝 Most Used Languages
 
 <table><tbody><tr border="none"><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=brandonc123&theme=dark&show_icons=true&count_private=true">
@@ -24,12 +24,6 @@
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=brandonc123&theme=dark"></td><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=brandonc123&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
-## 🔝 Most Used Languages
-
-<!-- ⚠️ Important: Replace 'Zyaxxy' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyaxxy&layout=compact&langs_count=10&theme=buefy"/>
-</div>
 
 ## 💻 Tech Stack
 
