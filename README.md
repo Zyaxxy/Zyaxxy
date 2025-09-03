@@ -16,7 +16,7 @@
 
 <div align="center"><p>Focused on deepening expertise in Rust and blockchain development while contributing to impactful, real-world projects.</p></div>
 
-## GitHub Stats ## 🔝 Most Used Languages
+## GitHub Stats🔝
 
 <table><tbody><tr border="none"><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=brandonc123&theme=dark&show_icons=true&count_private=true">
