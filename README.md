@@ -2,30 +2,30 @@
 <div align="center">
 
   <!-- ═══ HEADER BANNER ══════════════════════════════════════════ -->
-  <img src=".github/assets/githubHeader.gif" alt="Profile Banner" width="100%">
+  <img src=".github/assets/Clouds.gif" alt="Profile Banner" width="100%">
 
   <br/><br/>
-
+  <img src=".github/assets/header.svg" alt="Profile Banner" width="100%">
   <!-- ═══ NAME TYPING ANIMATION ══════════════════════════════════ -->
-  <picture>
+  <!-- <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=38&duration=3000&pause=1000&color=9D7CD8&center=true&vCenter=true&width=600&lines=Utkarsh+Jaiswal;Zyaxxy;Web3+%26+Full-Stack+Dev" />
     <source media="(prefers-color-scheme: light)"
       srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=38&duration=3000&pause=1000&color=6B46C1&center=true&vCenter=true&width=600&lines=Utkarsh+Jaiswal;Zyaxxy;Web3+%26+Full-Stack+Dev" />
     <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=38&duration=3000&pause=1000&color=9D7CD8&center=true&vCenter=true&width=600&lines=Utkarsh+Jaiswal;Zyaxxy;Web3+%26+Full-Stack+Dev"
         alt="Utkarsh Jaiswal typing animation" />
-  </picture>
+  </picture> -->
 
   <br/>
 
   <!-- ═══ SUBTITLE TYPING ANIMATION ══════════════════════════════ -->
-  <picture>
+  <!-- <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=16&duration=2000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=Blockchain+%26+Full-Stack+Developer;Solana+%C2%B7+Rust+%C2%B7+React+%C2%B7+Node.js;Building+Scalable+%26+Impactful+Solutions" />
     <source media="(prefers-color-scheme: light)"
       srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=16&duration=2000&pause=1000&color=555555&center=true&vCenter=true&width=600&lines=Blockchain+%26+Full-Stack+Developer;Solana+%C2%B7+Rust+%C2%B7+React+%C2%B7+Node.js;Building+Scalable+%26+Impactful+Solutions" />
     <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=16&duration=2000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=Blockchain+%26+Full-Stack+Developer;Solana+%C2%B7+Rust+%C2%B7+React+%C2%B7+Node.js;Building+Scalable+%26+Impactful+Solutions" alt="Role animation" />
-  </picture>
+  </picture> -->
 
   <br/>
 
@@ -33,66 +33,54 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/utkarsh-jaiswal-6170b5258/" target="_blank"><img height="28" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/linkedin.svg" alt="LinkedIn" /></a>
     &nbsp;
-    <a href="https://x.com/Utkxrsh_Jaiswal" target="_blank"><img height="28" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/twitter-x.svg" alt="X / Twitter" /></a>
+    <a href="https://x.com/Utkxrsh_Jaiswal" target="_blank"><img height="28" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/light/twitter-x.svg" alt="X / Twitter" /></a>
     &nbsp;
-    <a href="mailto:utkarshjaiswal285@gmail.com"><img height="28" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/gmail.svg" alt="Email" /></a>
-    &nbsp;
-    <a href="https://github.com/Zyaxxy" target="_blank"><img height="28" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/github.svg" alt="GitHub" /></a>
+    <a href="https://github.com/Zyaxxy" target="_blank"><img height="28" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/light/github.svg" alt="GitHub" /></a>
   </p>
 
   <!-- ═══ DIVIDER ════════════════════════════════════════════════ -->
   <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=9D7CD8" />
+    <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=FFFFFF" />
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=6B46C1" />
     <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=9D7CD8" alt="divider"/>
   </picture>
-
+  
 </div>
 
 <br/>
-
-<!-- ═══ ABOUT ME SECTION ══════════════════════════════════════════ -->
-<div>
-
-  <h3 align="left">⚡ About Me</h3>
-
-  | <p align="left">🎓 **Role:** Blockchain & Full-Stack Developer</p> |
-  | :----------------------------------------------------------- |
-  | 🦀 **Core Focus:** Rust, Solana dApps & Smart Contract Architecture |
-  | 💻 **Full-Stack:** React, Next.js, Node.js, Express, MongoDB, PostgreSQL |
-  | 🌱 **Currently Learning:** Deepening Rust systems & advanced decentralized protocols |
-  | 🎯 **Mission:** Delivering scalable, resilient, and user-centric Web3 solutions |
-  | 🐧 **Environment:** Linux + VS Code |
-  | 💬 **Ask Me About:** Solana Ecosystem, Rust, Full-Stack Development & Web3 |
-  | 📫 **Reach Me:** `utkarshjaiswal285@gmail.com` |
-
-</div>
-
-<br/>
-
----
 
 <!-- ═══ AUTOMATED STATS & METRICS ═════════════════════════════════ -->
-<h2 align="center">📊 GitHub Stats & Metrics</h2>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zyaxxy&label=Profile%20Views&color=9D7CD8&style=flat-square" alt="Visitor Count" />
 </p>
-
-<p align="center">
-  <img src=".github/assets/stats.svg" width="400px" alt="Stats Card" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Zyaxxy&theme=midnight-purple&hide_border=true" width="400px" alt="GitHub Streak" />
-  <img width="400px" src=".github/assets/metrics-stats.svg" alt="Metrics Stats" />
-  <img width="400px" src=".github/assets/metrics-repository.svg" alt="Repository Metrics" />
-  <img width="400px" src=".github/assets/metrics-activity.svg" alt="Activity Calendar" />
-</p>
+<table border="0" width="100%">
+  <tr border="none">
+    <td valign="top" align="left">
+      <br/><br/>
+      <img width="400px" src=".github/assets/metrics-stats.svg" alt="Metrics Stats" />
+      <br/><br/>
+      <img width="400px" src=".github/assets/metrics-repository.svg" alt="Repository Metrics" />
+      <br/><br/>
+      <img width="400px" src=".github/assets/metrics-activity.svg" alt="Activity Calendar" />
+      <br/><br/>
+    </td>
+    <td valign="top" align="center" width="420px">
+      <img width="280" src=".github/assets/star.gif" alt="Star Animation" />
+      <br/><br/>
+      <div>
+        <img width="400px" height="170" src="https://streak-stats.demolab.com?user=Zyaxxy&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
+        <img width="400px" src=".github/assets/stats.svg" alt="Stats Card" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 ---
 
 <!-- ═══ TECH STACK ═════════════════════════════════════════════════ -->
-<h2 align="center">🛠️ Languages & Technologies</h2>
+<h2 align="center"> Languages & Technologies</h2>
 <br/>
 
 <table align="center">
@@ -197,35 +185,11 @@
 
 ---
 
-<!-- ═══ WHAT I DO / FOCUS DOMAINS ═════════════════════════════════ -->
-<div align="center">
-  <h2>🚀 Core Focus Areas</h2>
-</div>
-
-```rust
-struct Developer {
-    name: &'static str,
-    focus: Vec<&'static str>,
-    traits: Vec<&'static str>,
-}
-
-fn main() {
-    let utkarsh = Developer {
-        name: "Utkarsh Jaiswal",
-        focus: vec!["Solana dApps", "Rust Systems", "Full-Stack Web3"],
-        traits: vec!["Fast Learner", "Problem Solver", "Open Source Enthusiast"],
-    };
-    println!("{:#?}", utkarsh);
-}
-```
-
-<br/>
-
 ---
 
 <!-- ═══ FOOTER ═════════════════════════════════════════════════════ -->
 <p align="center">
-  <sub>Made with <img src=".github/assets/hearts_gif.gif" width="18" height="18" alt="Heart" /> by <a href="https://github.com/Zyaxxy"><b>Utkarsh Jaiswal</b></a></sub>
+  <sub>Made by <a href="https://github.com/Zyaxxy"><b>Utkarsh Jaiswal</b></a></sub>
 </p>
 
 <p align="center">
