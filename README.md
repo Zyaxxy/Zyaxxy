@@ -4,7 +4,6 @@
   <!-- ═══ HEADER BANNER ══════════════════════════════════════════ -->
   <img src=".github/assets/Clouds.gif" alt="Profile Banner" width="100%">
 
-  <br/><br/>
   <img src=".github/assets/header.svg" alt="Profile Banner" width="100%">
   <!-- ═══ NAME TYPING ANIMATION ══════════════════════════════════ -->
   <!-- <picture>
