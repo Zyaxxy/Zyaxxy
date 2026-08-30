@@ -72,7 +72,7 @@
 
 ---
 
-<!-- ═══ STATS & METRICS ═══════════════════════════════════════════ -->
+<!-- ═══ AUTOMATED STATS & METRICS ═════════════════════════════════ -->
 <h2 align="center">📊 GitHub Stats & Metrics</h2>
 
 <p align="center">
@@ -80,18 +80,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Zyaxxy">
-    <img height="170" src="https://readme-stats-fork-mauve.vercel.app/api/?username=zyaxxy&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Zyaxxy's GitHub Stats" />
-  </a>
-  <a href="https://github.com/Zyaxxy">
-    <img height="170" src="https://streak-stats.demolab.com?user=Zyaxxy&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Zyaxxy">
-    <img height="170" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=zyaxxy&theme=midnight-purple&hide_border=true&layout=compact" alt="Top Languages" />
-  </a>
+  <img src=".github/assets/stats.svg" width="400px" alt="Stats Card" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Zyaxxy&theme=midnight-purple&hide_border=true" width="400px" alt="GitHub Streak" />
+  <img width="400px" src=".github/assets/metrics-stats.svg" alt="Metrics Stats" />
+  <img width="400px" src=".github/assets/metrics-repository.svg" alt="Repository Metrics" />
+  <img width="400px" src=".github/assets/metrics-activity.svg" alt="Activity Calendar" />
 </p>
 
 <br/>
