@@ -2,9 +2,27 @@
 <div align="center">
 
   <!-- ═══ HEADER BANNER ══════════════════════════════════════════ -->
-  <img src=".github/assets/Clouds.gif" alt="Profile Banner" width="100%">
+  <img src=".github/assets/Clouds.gif" alt="Profile Banner" width="100%" height="90%" />
 
-  <img src=".github/assets/header.svg" alt="Profile Banner" width="100%">
+ <br>
+
+<h2 align="center"> <img src=".github/assets/title1.png" width="25"/> <em>About  me </em></h2>
+
+<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
+<br/>
+
+<p>
+  Hello! <em><b> I'm Utkarsh</b></em>, an engineer building at the intersection of Web3, distributed systems, and modern full-stack development with a knack in Cyber Security.
+  I specialize in designing secure on-chain logic, intuitive decentralized user experiences,  Constantly exploring low-level systems, zero-knowledge tech, and DeFi Protocols. Actively seeking opportunities to build impactful decentralized solutions.
+<br/>
+
+<p align="center">
+   <img src=".github/assets/img3.png" width="15"/>   <a href="https://turbin3.org/"><em><b> Solana Turbine Graduate</b></em> </a><br/>
+   <img src=".github/assets/img2.png" width="15"/>   <em><b> Tata Hackquest S10 (CTF) Finalist </b></em><br/>
+   <img src=".github/assets/img1.png" width="15"/> <a href="https://x.com/DeXISolana">  <em><b>Check out DeXI</b></a></em><br/>
+   Decentralised Fantasy Sports Protocol to Trade Dynamic Performance based pricing player tokens and earn rewards based on their performance in real-time while also competing fantasy matches by creating teams<br/>
+</p>
+
   <!-- ═══ NAME TYPING ANIMATION ══════════════════════════════════ -->
   <!-- <picture>
     <source media="(prefers-color-scheme: dark)"
@@ -27,22 +45,25 @@
   </picture> -->
 
   <br/>
+  <br/>
 
   <!-- ═══ SOCIAL ICONS ═══════════════════════════════════════════ -->
-  <p align="center">
+
+
+  <!-- ═══ DIVIDER ════════════════════════════════════════════════ -->
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=FFFFFF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=6B46C1" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=9D7CD8" alt="divider"/>
+  </picture>
+    <p align="center">
     <a href="https://www.linkedin.com/in/utkarsh-jaiswal-6170b5258/" target="_blank"><img height="28" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/linkedin.svg" alt="LinkedIn" /></a>
     &nbsp;
     <a href="https://x.com/Utkxrsh_Jaiswal" target="_blank"><img height="28" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/light/twitter-x.svg" alt="X / Twitter" /></a>
     &nbsp;
     <a href="https://github.com/Zyaxxy" target="_blank"><img height="28" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/light/github.svg" alt="GitHub" /></a>
   </p>
-
-  <!-- ═══ DIVIDER ════════════════════════════════════════════════ -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=FFFFFF" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=6B46C1" />
-    <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=9D7CD8" alt="divider"/>
-  </picture>
   
 </div>
 
@@ -60,15 +81,14 @@
       <br/><br/>
       <img width="400px" src=".github/assets/metrics-repository.svg" alt="Repository Metrics" />
       <br/><br/>
-      <img width="400px" src=".github/assets/metrics-activity.svg" alt="Activity Calendar" />
-      <br/><br/>
     </td>
     <td valign="top" align="center" width="420px">
       <img width="280" src=".github/assets/star.gif" alt="Star Animation" />
       <br/><br/>
       <div>
-        <img width="400px" height="170" src="https://streak-stats.demolab.com?user=Zyaxxy&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
-        <img width="400px" src=".github/assets/stats.svg" alt="Stats Card" />
+        <img width="400px" src=".github/assets/metrics-activity.svg" alt="Activity Calendar" />
+        <!-- <img width="400px" height="170" src="https://streak-stats.demolab.com?user=Zyaxxy&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
+        <img width="400px" src=".github/assets/stats.svg" alt="Stats Card" /> -->
       </div>
     </td>
   </tr>
@@ -79,7 +99,7 @@
 ---
 
 <!-- ═══ TECH STACK ═════════════════════════════════════════════════ -->
-<h2 align="center"> Languages & Technologies</h2>
+<h2 align="center"> <img src=".github/assets/title2.png" width="25"/> <em> Stack </em></h2>
 <br/>
 
 <table align="center">
