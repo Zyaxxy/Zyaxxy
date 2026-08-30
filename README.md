@@ -17,10 +17,10 @@
 <br/>
 
 <p align="center">
-   <img src=".github/assets/img3.png" width="15"/>   <a href="https://turbin3.org/"><em><b> Solana Turbine Graduate</b></em> </a><br/>
-   <img src=".github/assets/img2.png" width="15"/>   <em><b> Tata Hackquest S10 (CTF) Finalist </b></em><br/>
-   <img src=".github/assets/img1.png" width="15"/> <a href="https://x.com/DeXISolana">  <em><b>Check out DeXI</b></a></em><br/>
-   Decentralised Fantasy Sports Protocol to Trade Dynamic Performance based pricing player tokens and earn rewards based on their performance in real-time while also competing fantasy matches by creating teams<br/>
+   <img src=".github/assets/img3.png" width="15"/> <a href="https://turbin3.org/"><em><b>Solana Turbine Graduate</b></em></a><br/>
+   <img src=".github/assets/img1.png" width="15"/> <em><b>Tata Hackquest S10 (CTF) Finalist</b></em><br/>
+   <img src=".github/assets/img2.png" width="15"/> <a href="https://x.com/DeXISolana"><em><b>Check out DeXI</b></em></a><br/>
+   <sub><i>Decentralised Fantasy Sports Protocol <br/> Trade dynamic performance-based pricing player tokens<br/> Earn real-time rewards while competing in fantasy leagues.</i></sub>
 </p>
 
   <!-- ═══ NAME TYPING ANIMATION ══════════════════════════════════ -->
@@ -33,8 +33,6 @@
         alt="Utkarsh Jaiswal typing animation" />
   </picture> -->
 
-  <br/>
-
   <!-- ═══ SUBTITLE TYPING ANIMATION ══════════════════════════════ -->
   <!-- <picture>
     <source media="(prefers-color-scheme: dark)"
@@ -44,9 +42,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=16&duration=2000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=Blockchain+%26+Full-Stack+Developer;Solana+%C2%B7+Rust+%C2%B7+React+%C2%B7+Node.js;Building+Scalable+%26+Impactful+Solutions" alt="Role animation" />
   </picture> -->
 
-  <br/>
-  <br/>
-
+  
   <!-- ═══ SOCIAL ICONS ═══════════════════════════════════════════ -->
 
 
@@ -57,6 +53,8 @@
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=2&color=6B46C1" />
     <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=9D7CD8" alt="divider"/>
   </picture>
+  <br/>
+  <br/>
     <p align="center">
     <a href="https://www.linkedin.com/in/utkarsh-jaiswal-6170b5258/" target="_blank"><img height="28" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/linkedin.svg" alt="LinkedIn" /></a>
     &nbsp;
